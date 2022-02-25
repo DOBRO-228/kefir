@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+.pytest_cache
+debug.py
+.history/
+__pycache__/
+coverage.xml
+.coverage
+.venv
